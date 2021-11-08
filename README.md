@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Youngwoo Park
 - 👀 I’m a front-end Engineer
-- 🌱 I’m currently working in Fasoo, which is the top of the data security comapny in South Korea.
+- 🌱 I’m currently working in Fasoo, which is one of the data security comapny in South Korea.
 - 💞️ I can do Typescript, Javascript, React, c++, storybook.
 - 📫 How to reach me ... send a mail to "parkyw1206@gmail.com"
